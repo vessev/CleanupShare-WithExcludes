@@ -1,0 +1,6 @@
+\\<FileServer>\<ShareFolder>\<Subfolder1>
+\\<FileServer>\<ShareFolder>\<Subfolder1>\*
+\\<FileServer>\<ShareFolder>\<Subfolder2>
+\\<FileServer>\<ShareFolder>\<Subfolder2>\*
+\\<FileServer>\<ShareFolder>\<Subfolder3>
+\\<FileServer>\<ShareFolder>\<Subfolder3>\*
