@@ -1,2 +1,4 @@
 # CleanupShare-WithExcludes
-Cleans a File Share Folder with Folders that should be excluded from the cleanup
+Cleans a Share Folder by checking file age and removes them if the "-Remove" Switch is given.
+
+This Script has also a possibility to exclude files and folders which should not be deleted.
